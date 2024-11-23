@@ -18,13 +18,13 @@
                 <h2>Origin and History</h2>
                                 <p>Alfred Nobel, the father of the Nobel Prize, founded a series of medals in 5 different categories: physics, chemistry, physiology or medicine, literature, and peace. He declared the establishment of the Nobel Prize through his last will, in the hope of awarding the talents who confer “greatest benefit on mankind”.</p>
                 <img src="https://cuhk.edu.hk/ugallery/images/gallery/zone-h/medal001.jpg">
-                                        <p>The first ever Nobel Prize Ceremony was held in 1901, at the old Royal Swedish Academy of Music.</p>
+                                <p>The first ever Nobel Prize Ceremony was held in 1901, at the old Royal Swedish Academy of Music.</p>
             
             </div>
 
             <div class="content-section">
                 <h2>Criteria-Laureates Choosing</h2>
-                <p>The person who are going to be chosen as laureate shall have made the most important chemical or physics discovery or improvement.</p>
+                                <p>The person who are going to be chosen as laureate shall have made the most important chemical or physics discovery or improvement.</p>
                 <img src="https://www.nobelprize.org/images/nomination-process-115550-landscape-x-large.jpg">
                 <p>Nomination, selection, controversies must have been gone through before ceremony.</p>
 
@@ -33,7 +33,7 @@
             <div class="content-section">
                 <h2>Upcoming Ceremony</h2>
                 <img src="https://www.nobelprize.org/images/ceremony-98760-large.jpg">
-                <p>The upcoming Nobel Prize ceremony will be held on <b>10 Dec 2024</b> in <b>Stockholm, Sweden</b>.</p>
+                                <p>The upcoming Nobel Prize ceremony will be held on <b>10 Dec 2024</b> in <b>Stockholm, Sweden</b>.</p>
                 <iframe  src="https://www.youtube.com/watch?v=zqvPpz1huIw&ab_channel=NobelPrize"></iframe>
 
             </div>
@@ -106,4 +106,8 @@
         </div>
 
         <div class="footer">
-            <p>&copy; 2023 Nobel Prize in Chemistry News</p>
+                                <p>&copy; 2023 Nobel Prize in Chemistry News</p>
+        </div>
+    </div>
+</body>
+</html>
